@@ -10,7 +10,7 @@ This Bash script automates the deployment and load testing of **Ant Media Server
 - **Interactive RTMP Load Testing**: Upload local `.mp4` video files and run multiple publishers to test server performance.  
 - **SSH Setup and Automation**: Installs necessary dependencies on both Ant Media and Load Tester instances.  
 - **EC2 Instance Management**: Waits for instances to be ready, checks status, and optionally terminates instances after testing.  
-- **Test Summaries**: Collects CPU usage statistics and generates a summary file for each test run.  
+- **Test Summaries**: Collects CPU usage statistics and generates a summary file for each test run. (Work in progress) 
 
 ## Pre-requisites
 
